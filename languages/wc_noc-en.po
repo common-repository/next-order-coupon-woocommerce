@@ -1,0 +1,96 @@
+# Copyright (C) 2018 WooCommerce Next Order Coupon
+# This file is distributed under the same license as the WooCommerce Next Order Coupon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Next Order Coupon 0.3.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/next-order-coupon-"
+"woocommerce\n"
+"POT-Creation-Date: 2018-09-28 06:05:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-09-28 16:10+1000\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: woocommerce-next-order-coupon.php:116
+msgid ""
+"Please enable and configure <strong>WooCommerce Next Order Coupon</strong> "
+"settings on the <a href=\"%s\">settings page</a>."
+msgstr ""
+"Please enable and configure <strong>WooCommerce Next Order Coupon</strong> "
+"settings on the <a href=“%s”>settings page</a>."
+
+#: woocommerce-next-order-coupon.php:129
+msgid "WooCommerce Next Order Coupon requires WooCommerce to be activated"
+msgstr "WooCommerce Next Order Coupon requires WooCommerce to be activated"
+
+#: woocommerce-next-order-coupon.php:144
+msgid "Settings"
+msgstr "Settings"
+
+#: woocommerce-next-order-coupon.php:156 woocommerce-next-order-coupon.php:185
+msgid "Next Order Coupon"
+msgstr "Next Order Coupon"
+
+#: woocommerce-next-order-coupon.php:191
+msgid "Enable"
+msgstr "Enable"
+
+#: woocommerce-next-order-coupon.php:197
+msgid "Coupon Code"
+msgstr "Coupon Code"
+
+#: woocommerce-next-order-coupon.php:205
+msgid "Coupon Amount"
+msgstr "Coupon Amount"
+
+#: woocommerce-next-order-coupon.php:206
+msgid "The coupon value that is emailed to the customer"
+msgstr "The coupon value that is emailed to the customer"
+
+#: woocommerce-next-order-coupon.php:214
+msgid "5% Off Entire Cart"
+msgstr "5% Off Entire Cart"
+
+#: woocommerce-next-order-coupon.php:215
+msgid "10% Off Entire Cart"
+msgstr "10% Off Entire Cart"
+
+#. translators: 1 is the coupon amount
+#: woocommerce-next-order-coupon.php:284
+msgid "Get %1$d%% off"
+msgstr "Get %1$d%% off"
+
+#. translators: 1 is the coupon amount and 2 is the coupon code
+#: woocommerce-next-order-coupon.php:292
+msgid ""
+"Thanks for your purchase! Come back and use the code <strong>%2$s</strong> "
+"to receive a %1$d%% discount on your next purchase!"
+msgstr ""
+"Thanks for your purchase! Come back and use the code <strong>%2$s</strong> "
+"to receive a %1$d%% discount on your next purchase!"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Next Order Coupon"
+msgstr "WooCommerce Next Order Coupon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://kenanfallon.com"
+msgstr "http://kenanfallon.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Email customers a coupon code when they complete an order to encourage them "
+"to return to your WooCommerce store."
+msgstr ""
+"Email customers a coupon code when they complete an order to encourage them "
+"to return to your WooCommerce store."
+
+#. Author of the plugin/theme
+msgid "Kenan Fallon"
+msgstr "Kenan Fallon"
